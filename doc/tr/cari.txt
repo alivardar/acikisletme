@@ -1,0 +1,47 @@
+
+		    *** Cari Ýþlemleri Bölümü ***
+		
+Bu bölüm 6 ana kýsýmdan oluþmaktadýr. Bu kýsýmlar sýrasýyla anlatýlmýþtýr.
+
+- Tahsilat/Tediye Makbuzu
+- Eski Makbuz Ýþlemleri
+- Gelen Fatura Ýþlemleri
+- Fatura Kesim Ýþlemleri
+- Yeni Cari Hesap Kartonu
+- Cari Hesap Kartonlarý
+
+
+    			--- Tahsilat/Tediye Makbuzu ---
+Kesilen tahsilat makbuzlarý kayýtlarý iþlenecektir. Gerekli bilgiler dolduru-
+lurken ekrandaki F7 ile daha önceden tanýmlanmýþ olan firma adý seçilecektir.
+F8 tuþu ile makbuzun tahsil veya tediye olup olmadýðýna karar verilecektir.
+Ýlk açýlýþta tahsil makbuzu varsayýlan olarak hazýr bir þekilde beklemektedir.
+
+
+    			--- Eski Makbuz Ýþlemleri ---
+Daha önceden girilmiþ olan makbuzlar üzerinde deðiþklik yapýlmasýna olanak ver-
+mektedir. Bu ekranda düzeltme ve silme iþlemleri yapýlabilmektedir. Her iþlemden 
+sonra Müþteri hesabýna otomatik olarak iþlenmektedir.
+
+			
+			--- Gelen Fatura Ýþlemleri ---
+Þirkete satýcýlar tarafýndan kesilmiþ olan faturalarýn iþlenmesini saðlamak-
+tadýr. Bu ekranda her seçimli ekraný bulunan alanda F8 ile diðer ekranlara
+ulaþýlabilir. F1 tuþu ile zaman ve sýk kullanýlan tuþlarýn listesine eriþile-
+bilir.
+			--- Fatura Kesim Ekraný --
+Fatura kesim iþlemlerinin gerçekleþtirildiði alandýr.			
+
+			--- Yeni Cari Hesap Kartonu --
+Burasý uygulama içerisinde en sýk kullanýlan alanlardandýr. Bu alana alýþ veriþ
+yapýlan Müþteri / Satýcý bilgileri yazýlacaktýr. Bu bilgiler irsaliye iþlemlerinde
+ve raporlarda tekrar kullanýlacaktýr.
+
+			--- CariHesap Kartonlarý ---
+Daha önceden girilmiþ olan cari hesap kartonlarý üzerinde deðiþiklik yapma ve 
+var olan eski Müþteri / Satýcý hesaplarýnýn silinmesini saðlar.
+
+                                                               
+Herhangi bir yardým ihtiyacý durumunda ali@linuxprogramlama.com adresine mail
+atýnýz veyahutta satýcýnýzla direkt temasa geçiniz. Ürünün yeni çýkan
+sürümlerini takip etmek amacýyla www.linuxprogramlama.com adresine bakýnýz.

@@ -1,0 +1,28 @@
+		Acikisletme-PostgreSQL Kurulum
+
+Requirements:
+
+Glib(1.2)
+Glibc
+libcrypt
+ncurses
+postgresql
+
+copy conf directory to /opt/acikisletme/conf directory 
+You must be edit /opt/acikisletme/conf/psql.conf file.
+
+(for redhat)
+/usr/share/pgsql/pg_hba.conf file must edit and this lines add.
+(for slackware)
+/var/lib/pgsql/data/pg_hba.conf
+
+host       all        192.168.1.1    255.255.255.0        trust
+host       all        192.168.1.2    255.255.255.0        trust
+
+#su postgres
+#createdb acikisletme
+#psql acikisletme < ./default.sql
+#acikisletme
+
+Default admin user is "root" and password is "root"
+

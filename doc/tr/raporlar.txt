@@ -1,0 +1,23 @@
+
+			*** Raporlar Bölümü ***
+		
+Raporlar bölümünde tamamen rapora baðlý olarak istenen tarih veyahutta
+ürün veyahutta müþteri/satýcý bilgilerinin doðru olarak girilmesi sonucu
+veritabaný üzerinden yapýlan sorgulama ekrana getirilmektedir.
+Bu bilgilerin yazýcýdan düzgün olarak alýnabilmesi için Ayarlar kýsmýndan
+yazýcý ile ilgili ayarlarýn doðru olarak yapýlmasý gerekmektedir.
+
+Adres etiket ile olan çýktýlar için IBM proprinter olmasý gerekmektedir.
+
+
+                                                                   
+            |    o                  o     |         |              
+            |    .,---..   ..  ,    .,---.|    ,---.|--- ,-.-.,---.
+            |    ||   ||   | ><     |`---.|    |---'|    | | ||---'
+            `---'``   '`---''  `    ``---'`---'`---'`---'` ' '`---'
+                                                                   
+Herhangi bir yardým ihtiyacý durumunda ali@linuxprogramlama.com adresine mail
+atýnýz veyahutta satýcýnýzla direkt temasa geçiniz. Ürünün yeni çýkan 
+sürümlerini takip etmek amacýyla www.linuxprogramlama.com adresine bakýnýz.
+
+

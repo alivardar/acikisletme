@@ -1,0 +1,4 @@
+GPL lisansi altinda dagitilmaktadir. Uygulama lisansini
+okuman icin www.gnu.org adresine bakabilirsiniz.
+Uygulama hakkinda bilgi icin www.linuxprogramlama.com
+adresinden bakabilirsiniz.

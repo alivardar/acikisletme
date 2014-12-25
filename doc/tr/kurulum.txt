@@ -1,0 +1,55 @@
+		Acikisletme-PostgreSQL Kurulum
+
+
+Gerekli kutuphaneler;
+Glib(1.2)
+Glibc
+libcrypt
+ncurses
+postgresql
+
+conf dizini icindeki dosyalari /opt/acikisletme/conf dizini 
+icerisine kopyalayiniz
+
+/opt/acikisletme/conf/psql.conf dosyasini duzenleyebilirsiniz.
+
+Öncelikle sisteminizde PostgreSQL sunucusu kurulmuþ olmalýdýr.
+PostgreSQL baþlatmak amacýyla /opt/acikisletme içinde bulunan
+
+Bilgisayarýnýzýn veyahutaa dýþ aðdan eriþecek olan makinelerin
+ip numaralarý aþaðýdaki biçimde
+(redhat için)
+/usr/share/pgsql/pg_hba.conf dosyasý içerisine eklenmelidir.
+
+örnek satýrlar aþaðýdaki biçimdedir.
+
+host       all        192.168.1.1    255.255.255.0        trust
+host       all        192.168.1.2    255.255.255.0        trust
+
+PostgreSQL tüm iþlemlerini güvenlik nedeniyle postgres kullanýcýsý
+ile yapmanýzý istemektedir.
+Bu yuzden sisteminize 
+#adduser postgres
+komutu ile bu kullanýcýyý açýnýz. Daha sonra Acikisletme için gerekli olan 
+tablolarýn oluþturulmasý için aþaðýdaki komutlarý yazýnýz
+
+#su postgres
+#createdb -T template0 acikisletme
+#psql acikisletme < ./default.sql
+
+Bu aþamadan sonra butun tablolarýn eksiksiz olarak açýlmýþ olmasý
+gerekmektedir. Konsol altýndan 
+
+#/opt/acikisletme/acikisletme yazarak uygulamayý çalýþtýrýnýz.
+
+Daha sonra çýkan þifre ekranýnda F5 tuþuna basarak ayarlar bölümüne
+geçiniz ve SQL sunucu ile ilgili olan kullanýcý adý, þifre ve
+SQL server adresi ayarlarýnýzý yapýnýz.
+
+Uygulamayý kapatýnýz ve tekrar çalýþtýrýnýz. 
+Kullanýcý adý yerine root þifre yerine root yazýnýz. Daha sonra F2 tuþuna
+basarak uygulamaya giriþ yapýnýz. Bu sizin en etkili kullanýcýnýzdýr.
+Daha sonra bu kullanýcýyý silip tüm haklarý olan yeni bir kullanýcý açýnýz.
+Bütün bu iþlemleri ayarlar bölümünden yapabilirsiniz.
+
+

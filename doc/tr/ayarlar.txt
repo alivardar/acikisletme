@@ -1,0 +1,91 @@
+
+			*** Ayarlar Bölümü ***
+		
+Bu bölüm 6 ana kýsýmdan oluþmaktadýr. Bu kýsýmlar sýrasýyla anlatýlmýþtýr.
+
+- Kullanýcý Ayarlarý
+- SQL Server Ayarlarý
+- Þirket Bilgileri
+- Yazýcý Ayarlarý
+- Yedekleme Ayarlarý
+- Fatura Düzenleme Ekraný
+- Ana Menüye Dönüþ
+
+
+		    --- Kullanýcý Ayarlarý ---
+Linuxiþletme linux iþletim sisteminin kullanýcý bilgisini kullanmaz. Linuxiþ-
+letme kendi kullanýcýlarýna sahiptir. Bütün kullanýcý bilgileri, haklarý ve
+þifreleri SQL sunucu içerisinde saklanýr. Þifreler SQL sunucuda þifreleme
+algoritmasý kullanýlarak saklanmaktadýr. Ýlk kurulum sonunda root kullanýcý
+adýyla bir kullanýcý tam haklara sahip olmak üzere sisteme tanýtýlmýþ durumdadýr.
+Bu kullanýcýnýn þifresi root dur. Daha sonra giriþ iþlemlerinden sonra bu 
+kullanýcý silinmeli ve tam haklara sahip yeni bir kullanýcý adýr ve þifre ile
+yeni kullanýcý açýlmalýdýr. Var olan kullanýcýnýn haklarýnýn ve þifre bilgileri
+düzeltilemez. Bunun yerine bu kullanýcý silinip tekrar yenisi açýlmalýdýr.
+
+		    --- SQL Server Ayarlarý ---
+
+!!! Bu kýsým Linuxiþletme ilk kurulduðu zaman ayarlanacaktýr. !!!
+
+Linuxiþletme tüm verilerini SQL sunucusu üzerinde saklamaktadýr. SQL
+sunucusu baðlantý için bir takým bilgilere ihtiyaç duyar. Bu bilgiler
+SQL sunucusunun bulunduðu bilgisayarýn adý, kullanýcý adý ve þifresinden
+oluþmaktadýr. Eðer bu bilgisayar ayný makina üzerinde ise bilgisayar adý
+kýsmýna localhost veyahutta 127.0.0.1 yazýlmasý yeterlidir. Eðer bu bilgisayar
+baþka bir bilgisayar ise diðer makinanýn ip numarasý veyahutta DNS kayýtlarý
+üzerinde tanýmlý olan ismi yazýlýr. 
+Kullanýcý adý bölümüne daha önceden açýlmýþ olan SQL eriþimi olan kullanýcý
+adý yazýlýr. Eðer ilk açýldýðý þekilde kullanmak istenirse kullanýcý adý:postgres
+þifre ise NULL olacaktýr "" biçimindedir.
+Mutlaka test baðlantýsý yapýlmalýdýr ve girilen bilgiler kayýt edilmelidir.
+
+			--- Þirket Bilgileri ---
+
+Raporlarda ve kullanýlan bir takým formlarda bu kýsma girilen bilgiler
+kullanýlacaktýr.
+
+			--- Yazýcý Ayarlarý ---
+
+Raporlarýn çýktýsýnýn alýnmasý için bu kýsým ile ilgili ayarlarýn mutlaka
+yapýlmýþ olmasý gerekmektedir. Yazýcý tiplerinden yapýlan tanýmlama ile;
+
+IBM Proprinter	:IBM ve Epson sýnýfý nokta vuruþlu tüm yazýcýlarý
+		desteklemektedir.
+Deskjet		:Hp deskjet sýnýfý windows sýnýfý olmayan yazýcýlar bu sýnýfa
+		girmektedir. (6xx serisi yazýcýlar )
+Laserjet	:Hp Laserjet sýnýfý yazýcýlar bu sýnýfa girmektedir.
+		Örn: Laserjet 4L, 5L, 1100 gibi
+
+Mutlaka gerekli tanýmlama yapýldýktan sonra test çýktýsý alýnmalýdýr ve Türkçe
+ile ilgili bir sorun olup olmadýðý kontrol edilmelidir. Yapýlan bütün 
+tanýmlamalar daha sonra kayýt edilmelidir.
+Bilgisayara baðlý olan yazýcý þu an için sadece /dev/lpxx tarzý aygýtlarý
+desteklemektedir. (/dev/lp0  Windows iþletim sisteminde lpt1 karþýlýk
+gelmektedir. Bir numaralý paralel port anlamýndadýr.)
+
+
+
+			--- Yedekleme Ayarlarý ---
+			
+Linuxiþletme eðer kurulumdan sonra ayarlar deðiþtirilmedi ise her açýlýþta
+SQL yedeklerini otomatik olarak alýr. Bu yedekler tarih adýyla 
+/opt/linuxisletme/backup/tarih.sql adýyla saklanýrlar. Eðer SQL bir zarar 
+gelmesi durumunda ki bu çok düþük bir ihtimaldir. Burada bulunan yedekler
+tekrar geri yüklenebilir. Bu ekran içerisinde o anda yedeke alýnabilir veya
+hergün yedek alýnabilmesi saðlanabilir.
+
+			--- Fatura Düzenleme Ekraný ---
+Her iþletmenin farklý bir fatura dizayný bulunmakatadýr. Bu yüzden karþýmýza
+çýkan bu ekran üzerinde boþul tuþlarý ile boþluk vererek ve bilgilerin
+arasýnda bulunan # arasýnda boþluk býrakarak bu tamamlama ve hizalama iþleri 
+yapýlabilir daha sonra F2 tuþuna basýlarak kayýt iþlemi gerçekleþtirilir.
+Bu kayýt iþleminden sonra f10 tuþuna basýlarak editörden çýkýlabilir.
+Dikkat edilmesi gereken nokta fatura yazýdrma tasarýmý IBM yazýcýlar ile 
+uygumlu olarak yapýlmýþlardýr.
+
+                                                                   
+Herhangi bir yardým ihtiyacý durumunda ali@linuxprogramlama.com adresine mail
+atýnýz veyahutta satýcýnýzla direkt temasa geçiniz. Ürünün yeni çýkan sürümlerini
+takip etmek amacýyla www.linuxprogramlama.com adresine bakýnýz.
+
+

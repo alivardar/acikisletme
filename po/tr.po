@@ -1,0 +1,1876 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2005-03-20 11:46+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: M.Ali VARDAR <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-9\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. banner
+#: src/main.c:55
+#, fuzzy
+msgid "   acik isletme  "
+msgstr "ssdddd"
+
+#: src/main.c:56
+msgid "  GPL Release (c) 2001-2005  M.Ali VARDAR"
+msgstr " GPL sürümü (c) 200-2005 M.Ali VARDAR"
+
+#: src/main.c:57
+msgid "      URL:  http://www.linuxprogramlama.com"
+msgstr "  adres:  http://www.linuxprogramlama.com"
+
+#: src/main.c:58
+msgid "        Email: ali@linuxprogramlama.com"
+msgstr "   E-Posta: ali@linuxprogramlama.com"
+
+#: src/main.c:98
+msgid "Market "
+msgstr "Market"
+
+#: src/main.c:99
+msgid "Current Module"
+msgstr "Cari Modulü"
+
+#: src/main.c:100
+msgid "Cheque Module"
+msgstr "Çek Modulü"
+
+#: src/main.c:101 include/yardim.h:13
+msgid "Stock Module"
+msgstr "Stok Modulü"
+
+#: src/main.c:102
+msgid "Reports"
+msgstr "Raporlar"
+
+#: src/main.c:103 include/ayarlar.h:52
+msgid "Configuration"
+msgstr "Ayarlar"
+
+#: src/main.c:104
+msgid "Help"
+msgstr "Yardim"
+
+#: src/main.c:105
+msgid "About"
+msgstr ""
+
+#: src/main.c:106
+msgid "Exit"
+msgstr ""
+
+#: src/main.c:133
+msgid "Some bills not prepared. Don't forget.!"
+msgstr ""
+
+#: src/main.c:182 src/main.c:193 src/main.c:204 src/main.c:216 src/main.c:230
+msgid "Access denied.!!!"
+msgstr ""
+
+#: src/main.c:347 include/ayarlar.h:202
+msgid "User name :"
+msgstr ""
+
+#: src/main.c:348
+msgid "Password  :"
+msgstr ""
+
+#: src/main.c:357
+msgid "This application under GPL license."
+msgstr ""
+
+#: src/main.c:362
+msgid "F2-> Begin                                               ESC-> Cancel"
+msgstr ""
+
+#: src/main.c:363
+msgid "F5-> Settings"
+msgstr ""
+
+#: src/main.c:366
+msgid "                               Acik                          "
+msgstr ""
+
+#: include/conf.h:26
+msgid ""
+"                        Acik isletme release 2.1 (2001-2005)                "
+msgstr ""
+
+#: include/conf.h:29
+msgid "Acikisletme not found. Please control connection and database.!!!"
+msgstr ""
+
+#: include/conf.h:30
+msgid "Sql query can not be worked.!!!"
+msgstr ""
+
+#: include/conf.h:31
+msgid "Record successfully saved. Do you want a new record.?"
+msgstr ""
+
+#: include/conf.h:32
+msgid "Do you want a new record.?"
+msgstr ""
+
+#: include/conf.h:33
+msgid "Record will be delete. Do you want.???"
+msgstr ""
+
+#: include/conf.h:34
+msgid "Edit process succesfully saved."
+msgstr ""
+
+#: include/conf.h:35
+msgid "  Are you sure want to quit.?"
+msgstr ""
+
+#: include/conf.h:193
+#, fuzzy
+msgid "- Acik isletme Search -"
+msgstr "ssdddd"
+
+#: include/conf.h:222
+msgid "Search word    : [                                ]"
+msgstr ""
+
+#: include/conf.h:246
+msgid "One"
+msgstr ""
+
+#: include/conf.h:246
+msgid "Two"
+msgstr ""
+
+#: include/conf.h:246
+msgid "Three"
+msgstr ""
+
+#: include/conf.h:246
+msgid "Four"
+msgstr ""
+
+#: include/conf.h:246
+msgid "Five"
+msgstr ""
+
+#: include/conf.h:246
+msgid "Six"
+msgstr ""
+
+#: include/conf.h:246
+msgid "Seven"
+msgstr ""
+
+#: include/conf.h:246
+msgid "Eight"
+msgstr ""
+
+#: include/conf.h:246
+msgid "Nine"
+msgstr ""
+
+#: include/conf.h:247
+msgid "Ten"
+msgstr ""
+
+#: include/conf.h:247
+msgid "Twelve"
+msgstr ""
+
+#: include/conf.h:247
+msgid "Thirty"
+msgstr ""
+
+#: include/conf.h:247
+msgid "Fourty"
+msgstr ""
+
+#: include/conf.h:247
+msgid "Fifty"
+msgstr ""
+
+#: include/conf.h:247
+msgid "Sixty"
+msgstr ""
+
+#: include/conf.h:247
+msgid "Seventy"
+msgstr ""
+
+#: include/conf.h:247
+msgid "Eighty"
+msgstr ""
+
+#: include/conf.h:247
+msgid "Nineteen"
+msgstr ""
+
+#: include/conf.h:265
+#, c-format
+msgid "hundert%s"
+msgstr ""
+
+#: include/conf.h:266
+#, c-format
+msgid "%shundert%s"
+msgstr ""
+
+#: include/conf.h:322
+msgid "Sql connection not found. Please be sure your configuration. !!! "
+msgstr ""
+
+#: include/conf.h:489
+#, fuzzy
+msgid "- Acik isletme info -"
+msgstr "ssdddd"
+
+#: include/conf.h:490
+msgid "   OK   "
+msgstr ""
+
+#: include/conf.h:563
+#, fuzzy
+msgid "- Acik isletme Question -"
+msgstr "ssdddd"
+
+#: include/conf.h:665
+msgid "          F5-> Search      ESC-> Exit       Enter-> Select      "
+msgstr ""
+
+#: include/conf.h:666
+msgid "  PAGE UP -> Prior Page     PAGE DOWN -> Next Page "
+msgstr ""
+
+#. arama tusu basýlýrsa
+#: include/conf.h:706
+msgid "Arama iin bir deer giriniz. Dzgn sralama iin bo braknz. "
+msgstr ""
+
+#: include/conf.h:858
+msgid ""
+" Akiletme'yi konsol haricinde calistirmak       problemlere yol "
+"acmaktadir.    Uygulamanin ekranlarinda problem yaratmaktadir.  Uygulamayi "
+"konsol altinda kullaniniz"
+msgstr ""
+
+#: include/conf.h:865
+msgid ""
+"Ltfen menden k blmn kullannz.!!!      Uygulamada veri kaybna neden "
+"olabilirsiniz.       Uygulamadan klyor...."
+msgstr ""
+
+#: include/conf.h:1177
+#, c-format
+msgid "%sbin%s"
+msgstr ""
+
+#: include/conf.h:1184
+#, c-format
+msgid "%smilyon%s"
+msgstr ""
+
+#: include/conf.h:1191
+#, c-format
+msgid "%smilyar%s"
+msgstr ""
+
+#: include/conf.h:1198
+#, c-format
+msgid "%strilyonr%s"
+msgstr ""
+
+#: include/conf.h:1204
+#, c-format
+msgid "%skatrilyonr%s"
+msgstr ""
+
+#: include/conf.h:1219
+#, c-format
+msgid "Saat: %s:%s:%s      Tarih: %s/%s/%s"
+msgstr ""
+
+#: include/conf.h:1236
+msgid "Ak letme Klavye Kullanm Klavuzu"
+msgstr ""
+
+#: include/conf.h:1237
+msgid "Kullanlabilecek Tular"
+msgstr ""
+
+#: include/conf.h:1240
+msgid "* F1    - Yardm ekran"
+msgstr ""
+
+#: include/conf.h:1241
+msgid "* F2    - Yeni kayt almas durumunda kayt tuu"
+msgstr ""
+
+#: include/conf.h:1242
+msgid "* F3    - Ekranlarda yeni kayt almasn salar"
+msgstr ""
+
+#: include/conf.h:1243
+msgid "* F4    - zerinde bulunulan kayd siler"
+msgstr ""
+
+#: include/conf.h:1244
+msgid "* F8    - zerinde bulunulan girdi konumunda seenekleri gsterir"
+msgstr ""
+
+#: include/conf.h:1245
+msgid "* Tab   - nceki giri alanna konumlanr."
+msgstr ""
+
+#: include/conf.h:1246
+msgid "* Enter - sonraki giri alanna konumlanr."
+msgstr ""
+
+#: include/conf.h:1247
+msgid "* F10/ESC -> Menlerde k iin kullanlabilir."
+msgstr ""
+
+#: include/conf.h:1249
+msgid "Ayrca kaytlar arasnda Page-Up/Page Down tular ile nceki ve sonraki"
+msgstr ""
+
+#: include/conf.h:1250
+msgid "kaytlara hareket edilebilir. Ok tular ile kayt giri alanlarnda "
+msgstr ""
+
+#: include/conf.h:1251
+msgid "istenilen alana konumlanlabilir."
+msgstr ""
+
+#: include/conf.h:1253
+msgid "k iin enter tuuna basnz."
+msgstr ""
+
+#: include/stok.h:11
+msgid "Incoming waybill"
+msgstr ""
+
+#: include/stok.h:12
+msgid "Outgoing waybill"
+msgstr ""
+
+#: include/stok.h:13
+msgid "New stock account"
+msgstr ""
+
+#: include/stok.h:14
+#, fuzzy
+msgid "Stock accounts"
+msgstr "Stok Modulü"
+
+#: include/stok.h:15 include/cari.h:18 include/raporlar.h:18
+#: include/market.h:13 include/ceksenet.h:14 include/ayarlar.h:12
+#: include/yardim.h:19
+msgid "Back"
+msgstr ""
+
+#: include/stok.h:45
+msgid "Stock List"
+msgstr ""
+
+#: include/stok.h:193
+msgid ""
+"                           New Stock "
+"Account                                    "
+msgstr ""
+
+#. toplam 3 satýr
+#: include/stok.h:198 include/stok.h:623 include/cari.h:229 include/cari.h:630
+#: include/market.h:235 include/irsaliyegiris.h:134
+#: include/irsaliyecikis.h:136 include/faturagelen.h:296
+#: include/faturakesilen.h:301
+msgid "No:"
+msgstr ""
+
+#: include/stok.h:199
+msgid "Material code :"
+msgstr ""
+
+#: include/stok.h:200 include/stok.h:625
+msgid "Material name:"
+msgstr ""
+
+#: include/stok.h:201 include/stok.h:626
+msgid "Explanation:"
+msgstr ""
+
+#: include/stok.h:202
+msgid "Serial:"
+msgstr ""
+
+#: include/stok.h:203 include/stok.h:628
+msgid "Unit price:"
+msgstr ""
+
+#: include/stok.h:204 include/stok.h:629
+msgid "Inhand:"
+msgstr ""
+
+#: include/stok.h:205 include/stok.h:630
+msgid "Tax percent:"
+msgstr ""
+
+#: include/stok.h:206
+msgid "Unit of measurement:"
+msgstr ""
+
+#: include/stok.h:209
+msgid "                  F2->Save     F3->New   ESC->Exit "
+msgstr ""
+
+#: include/stok.h:396
+#, c-format
+msgid "%s - mevcut: %s "
+msgstr ""
+
+#: include/stok.h:420
+msgid "  F4-> Edit F5-> Find  F8-> Delete  ESC-> Exit  Please select "
+msgstr ""
+
+#. arama tusu basýlýrsa
+#: include/stok.h:456 include/faturagelen.h:93 include/faturakesilen.h:105
+msgid "rn ad veya iinde geen bir deer giriniz.    Dzgn sralama iin bo braknz. "
+msgstr ""
+
+#. sil tusu basýlýrsa f8
+#. silme hakký kontrolu
+#: include/stok.h:463
+msgid "You don't have delete permission.!!!"
+msgstr ""
+
+#: include/stok.h:478 include/stok.h:486
+msgid "Bu tablo zerinde kayt yaplmtr. Silinemez."
+msgstr ""
+
+#: include/stok.h:618
+msgid ""
+"                           New Stock Account                              "
+msgstr ""
+
+#: include/stok.h:624
+msgid "Material code:"
+msgstr ""
+
+#: include/stok.h:627
+msgid "Serial no:"
+msgstr ""
+
+#: include/stok.h:631
+msgid "l Birimi:"
+msgstr ""
+
+#: include/stok.h:633
+msgid "                  F2-> Save   F3-> New  ESC-> Exit"
+msgstr ""
+
+#: include/cari.h:12
+msgid "Collect and Payment Receipt"
+msgstr ""
+
+#: include/cari.h:13
+msgid "Receipt "
+msgstr ""
+
+#: include/cari.h:14
+msgid "Gelen Fatura lemleri"
+msgstr ""
+
+#: include/cari.h:15
+msgid "Bill Kesim lemleri"
+msgstr ""
+
+#: include/cari.h:16
+msgid "Yeni Cari Hesap Kartonu"
+msgstr ""
+
+#: include/cari.h:17
+msgid "Cari Hesap Kartonlar"
+msgstr ""
+
+#: include/cari.h:45
+msgid "Currency"
+msgstr ""
+
+#: include/cari.h:224
+msgid ""
+"                         Yeni Cari Hesap "
+"Kartonu                                "
+msgstr ""
+
+#: include/cari.h:230
+msgid "Mteri no:"
+msgstr ""
+
+#: include/cari.h:231 include/cari.h:632
+msgid "Firma Ad:"
+msgstr ""
+
+#: include/cari.h:232 include/cari.h:633
+msgid "Adres:"
+msgstr ""
+
+#: include/cari.h:233 include/cari.h:634
+msgid "Vergi Dairesi:"
+msgstr ""
+
+#: include/cari.h:234 include/cari.h:635
+msgid "Vergi No:"
+msgstr ""
+
+#: include/cari.h:235 include/cari.h:636
+msgid "Telefon:"
+msgstr ""
+
+#: include/cari.h:236 include/cari.h:637 include/ayarlar.h:392
+msgid "Fax:"
+msgstr ""
+
+#: include/cari.h:237 include/cari.h:638 include/cari.h:910
+#: include/cari.h:1570
+msgid "Aklama:"
+msgstr ""
+
+#: include/cari.h:238
+msgid "Para Birimi:"
+msgstr ""
+
+#: include/cari.h:449 include/cari.h:1343
+msgid "  F4-> Dzelt  F5-> Ara  F8-> Sil  ESC-> k  Seiminizi Yapnz "
+msgstr ""
+
+#: include/cari.h:453 include/cari.h:1347 include/ceksenet.h:708
+msgid "  PAGE UP -> nceki Sayfa     PAGE DOWN -> Sonraki Sayfa "
+msgstr ""
+
+#: include/cari.h:492
+msgid "irket ad veya yakn bir deer giriniz. Dzgn   sralama iin bo braknz. "
+msgstr ""
+
+#: include/cari.h:501 include/cari.h:1396 include/faturagelen.h:862
+#: include/faturakesilen.h:888 include/ceksenet.h:797
+msgid "Silme hakknz yok.!!!"
+msgstr ""
+
+#: include/cari.h:625
+msgid ""
+"                    Cari Hesap Dzenleme Ekran                                "
+msgstr ""
+
+#: include/cari.h:631
+msgid "Bilano no:"
+msgstr ""
+
+#: include/cari.h:639
+msgid "Bakiye:"
+msgstr ""
+
+#: include/cari.h:640
+msgid "B/A:"
+msgstr ""
+
+#: include/cari.h:642
+msgid "                     F2->Kaydet                 ESC->k"
+msgstr ""
+
+#: include/cari.h:890 include/cari.h:1071 include/cari.h:1105
+#: include/cari.h:1165 include/cari.h:1547
+msgid ""
+"                            Yeni Tahsilat "
+"Makbuzu                               "
+msgstr ""
+
+#. toplam 3 satýr
+#: include/cari.h:902 include/cari.h:1562 include/ceksenet.h:248
+msgid "No :"
+msgstr ""
+
+#: include/cari.h:903 include/cari.h:1563 include/ceksenet.h:249
+msgid "Tarih :"
+msgstr ""
+
+#: include/cari.h:906 include/cari.h:1566 include/ceksenet.h:254
+msgid "Makbuz No :"
+msgstr ""
+
+#: include/cari.h:908 include/cari.h:1568
+msgid "Firma   :"
+msgstr ""
+
+#: include/cari.h:911 include/cari.h:1571
+msgid "Tutar   :"
+msgstr ""
+
+#: include/cari.h:913 include/cari.h:1573
+msgid "    F5->Makbuz yazdr"
+msgstr ""
+
+#: include/cari.h:914 include/cari.h:1574
+msgid "    F2->Kaydet   F3->Yeni  F8->Firma Seimi   F7->Tahsil/Tediye   ESC->k"
+msgstr ""
+
+#: include/cari.h:1013 include/ceksenet.h:363
+msgid "Makbuz no yazmadnz.!!!"
+msgstr ""
+
+#: include/cari.h:1019 include/ceksenet.h:371
+msgid "Firma ad girmek zorundasnz.!!!"
+msgstr ""
+
+#: include/cari.h:1025 include/ceksenet.h:379
+msgid "Tutar girmediniz.!!!"
+msgstr ""
+
+#: include/cari.h:1156
+msgid ""
+"                              Yeni Tediye "
+"Makbuzu                               "
+msgstr ""
+
+#: include/cari.h:1181
+msgid "                                                      Tediye Makbuzu"
+msgstr ""
+
+#: include/cari.h:1182
+msgid "                                                      Tahsilat Makbuzu"
+msgstr ""
+
+#: include/cari.h:1190 include/cari.h:1754
+#, c-format
+msgid "  Vergi no: %s\n"
+msgstr ""
+
+#: include/cari.h:1191 include/cari.h:1755
+#, c-format
+msgid "     Tel: %s\n"
+msgstr ""
+
+#: include/cari.h:1193 include/cari.h:1757
+#, c-format
+msgid ""
+"                                                                                                 Tarih: "
+"%s/%s/%s\n"
+msgstr ""
+
+#: include/cari.h:1195 include/cari.h:1759
+#, c-format
+msgid ""
+"                                                                                                 Makbuz "
+"no: %s\n"
+msgstr ""
+
+#: include/cari.h:1201 include/cari.h:1765
+#, c-format
+msgid "             Sayn   %s     'dan\n"
+msgstr ""
+
+#: include/cari.h:1202 include/cari.h:1766
+#, c-format
+msgid "     yalnz %s "
+msgstr ""
+
+#: include/cari.h:1203 include/cari.h:1767
+msgid "tediye edilmitir.\n"
+msgstr ""
+
+#: include/cari.h:1204 include/cari.h:1768
+msgid "tahsil edilmitir.\n"
+msgstr ""
+
+#: include/cari.h:1238 include/cari.h:1802 include/ceksenet.h:599
+msgid "     Aklama :\n"
+msgstr ""
+
+#: include/cari.h:1241 include/cari.h:1805
+msgid ""
+"                                                                                                 Yetkili "
+"imza\n"
+msgstr ""
+
+#: include/cari.h:1249 include/cari.h:1813 include/ceksenet.h:609
+msgid "Makbuz yazcya gnderildi"
+msgstr ""
+
+#: include/cari.h:1385 include/ceksenet.h:786
+msgid "irket ad veya yakn bir deer giriniz. Dzgn sralama iin bo braknz. "
+msgstr ""
+
+#: include/cari.h:1413
+msgid "tahsil"
+msgstr ""
+
+#: include/cari.h:1419
+msgid "tediye"
+msgstr ""
+
+#: include/cari.h:1564 include/cari.h:1565
+msgid "/"
+msgstr ""
+
+#: include/cari.h:1613 include/cari.h:1733
+msgid ""
+"                            Tahsilat Makbuzu "
+"Dzeltme                           "
+msgstr ""
+
+#: include/cari.h:1622
+msgid ""
+"                            Tediye Makbuzu "
+"Dzeltme                             "
+msgstr ""
+
+#: include/cari.h:1724
+msgid ""
+"                              Tediye Makbuzu "
+"Dzeltme                           "
+msgstr ""
+
+#: include/raporlar.h:12
+msgid "Account List"
+msgstr ""
+
+#: include/raporlar.h:13
+#, fuzzy
+msgid "Adress List"
+msgstr "Yardim listesi"
+
+#: include/raporlar.h:14
+msgid "Existing Stock List"
+msgstr ""
+
+#: include/raporlar.h:15
+msgid "Waybill Without Bill"
+msgstr ""
+
+#: include/raporlar.h:16
+msgid "Debt/Credit List"
+msgstr ""
+
+#: include/raporlar.h:17
+msgid "Checks in/out List"
+msgstr ""
+
+#: include/raporlar.h:181
+msgid "First no.:"
+msgstr ""
+
+#: include/raporlar.h:182
+msgid "Last no.   :"
+msgstr ""
+
+#: include/raporlar.h:184
+msgid "Please select out device."
+msgstr ""
+
+#: include/raporlar.h:185
+msgid "Screen   : "
+msgstr ""
+
+#: include/raporlar.h:186
+msgid "Printer  : "
+msgstr ""
+
+#: include/raporlar.h:196 include/raporlar.h:745
+msgid ""
+"      F5 -> Report                                 ESC-> Exit           "
+msgstr ""
+
+#: include/raporlar.h:198 include/raporlar.h:473 include/raporlar.h:747
+#: include/raporlar.h:1020 include/raporlar.h:1594
+msgid " - stenen balang ve biti kayt numaralar yazlmaldr."
+msgstr ""
+
+#: include/raporlar.h:199 include/raporlar.h:474 include/raporlar.h:748
+#: include/raporlar.h:1021 include/raporlar.h:1595
+msgid " - Rapor kts aygt seimi boluk tuuna basarak yapnz."
+msgstr ""
+
+#: include/raporlar.h:323
+msgid "Account List Report"
+msgstr ""
+
+#: include/raporlar.h:358
+#, c-format
+msgid ""
+"%s Firm Account List    ---     Report time : %s/%s/%s   %s:%s:%s  ---   "
+"User:%s\n"
+"\n"
+msgstr ""
+
+#. font kýsmý  baslik buyuk olacak 15 punto
+#: include/raporlar.h:364
+msgid ""
+"                                                            Account List "
+"Report\n"
+msgstr ""
+
+#: include/raporlar.h:370 include/raporlar.h:643 include/raporlar.h:918
+#: include/raporlar.h:1197
+msgid "No."
+msgstr ""
+
+#: include/raporlar.h:370 include/raporlar.h:1197
+msgid " F.No."
+msgstr ""
+
+#: include/raporlar.h:370 include/raporlar.h:1197 include/raporlar.h:1772
+msgid "Firma Ad"
+msgstr ""
+
+#: include/raporlar.h:370
+msgid "Adres"
+msgstr ""
+
+#: include/raporlar.h:370
+msgid "Vergi Dairesi"
+msgstr ""
+
+#: include/raporlar.h:370
+msgid "Vergi No."
+msgstr ""
+
+#: include/raporlar.h:370
+msgid "Telefon1"
+msgstr ""
+
+#: include/raporlar.h:370
+msgid "Fax"
+msgstr ""
+
+#: include/raporlar.h:370 include/raporlar.h:643 include/raporlar.h:1197
+msgid "Aklama"
+msgstr ""
+
+#: include/raporlar.h:407 include/raporlar.h:679 include/raporlar.h:956
+#: include/raporlar.h:1298 include/raporlar.h:1811
+msgid "Report sended to printer."
+msgstr ""
+
+#: include/raporlar.h:449
+msgid ""
+"                                Stok Listesi "
+"Raporu                            "
+msgstr ""
+
+#: include/raporlar.h:456 include/raporlar.h:730 include/raporlar.h:1003
+#: include/raporlar.h:1351
+msgid "Balang kayt no :"
+msgstr ""
+
+#: include/raporlar.h:457 include/raporlar.h:731 include/raporlar.h:1004
+#: include/raporlar.h:1352
+msgid "Biti kayt no    :"
+msgstr ""
+
+#: include/raporlar.h:459 include/raporlar.h:733 include/raporlar.h:1006
+#: include/raporlar.h:1580
+msgid "kt iin kullanlacak olan aygt seiniz."
+msgstr ""
+
+#: include/raporlar.h:460 include/raporlar.h:734 include/raporlar.h:1007
+#: include/raporlar.h:1581
+msgid "Ekran   : "
+msgstr ""
+
+#: include/raporlar.h:461 include/raporlar.h:735 include/raporlar.h:1008
+#: include/raporlar.h:1582
+msgid "Yazc  : "
+msgstr ""
+
+#: include/raporlar.h:471 include/raporlar.h:1018 include/raporlar.h:1592
+msgid "      F5 -> Rapor                                 ESC-> k           "
+msgstr ""
+
+#: include/raporlar.h:635
+#, c-format
+msgid ""
+"%s irketi Stok Kart Dkm %s/%s/%s   %s:%s:%s kullanc: %s\n"
+"\n"
+msgstr ""
+
+#: include/raporlar.h:639
+msgid "                                           Stok rn Listesi\n"
+msgstr ""
+
+#: include/raporlar.h:643
+msgid "Malzeme Kodu"
+msgstr ""
+
+#: include/raporlar.h:643 include/raporlar.h:918
+msgid "rn Ad"
+msgstr ""
+
+#: include/raporlar.h:643
+msgid "Seri No."
+msgstr ""
+
+#: include/raporlar.h:643 include/raporlar.h:918
+msgid "Birim Fiyat"
+msgstr ""
+
+#: include/raporlar.h:643
+msgid "Mevcut"
+msgstr ""
+
+#: include/raporlar.h:723
+msgid ""
+"                        Faturas Kesilmemi rsaliyeler Raporu                 "
+msgstr ""
+
+#: include/raporlar.h:874
+msgid "Faturasz rsaliyeler Raporu"
+msgstr ""
+
+#: include/raporlar.h:909
+#, c-format
+msgid ""
+"%s irketi - Faturas Kesilmemi Irsaliyeler Dkm - Rapor Zaman: %s/%s/%s  %s:%s:"
+"%s - kullanc: %s\n"
+"\n"
+msgstr ""
+
+#: include/raporlar.h:913
+msgid ""
+"                                                        Faturasz Irsaliyeler "
+"Dkm\n"
+msgstr ""
+
+#: include/raporlar.h:918
+msgid "Tarih"
+msgstr ""
+
+#: include/raporlar.h:918
+msgid "rn Kodu"
+msgstr ""
+
+#: include/raporlar.h:918
+msgid "Irsaliye No."
+msgstr ""
+
+#: include/raporlar.h:918
+msgid "Miktar"
+msgstr ""
+
+#: include/raporlar.h:918
+msgid "Giden Firma Ad"
+msgstr ""
+
+#: include/raporlar.h:996
+msgid ""
+"                               Bor/Alacak "
+"Listesi                             "
+msgstr ""
+
+#: include/raporlar.h:1148
+msgid "Bor Alacak Listesi"
+msgstr ""
+
+#: include/raporlar.h:1188
+#, c-format
+msgid ""
+"%s irketi  Bor/Alacak Durum Raporu - Rapor Zaman: %s/%s/%s   %s:%s:%s\n"
+"\n"
+msgstr ""
+
+#: include/raporlar.h:1192
+msgid ""
+"                                                                     Bor - "
+"Alacak Durum Raporu \n"
+msgstr ""
+
+#: include/raporlar.h:1197
+msgid "Telefon"
+msgstr ""
+
+#: include/raporlar.h:1197
+msgid "Bor"
+msgstr ""
+
+#: include/raporlar.h:1197
+msgid "Alacak"
+msgstr ""
+
+#: include/raporlar.h:1267
+msgid "Genel Toplamlar  :"
+msgstr ""
+
+#: include/raporlar.h:1276
+msgid "Fark Toplam   :"
+msgstr ""
+
+#: include/raporlar.h:1343
+msgid ""
+"                 Mteri/irket Adres Etiket Basm                             "
+msgstr ""
+
+#: include/raporlar.h:1350
+msgid "Mteri etiketi seilmesi durumunda hangi kayt aralklar"
+msgstr ""
+
+#: include/raporlar.h:1358
+msgid "Kendi irketimizin etiketi veyahutta mterilerin etiketimi baslacak.?"
+msgstr ""
+
+#: include/raporlar.h:1359
+msgid "Mteri etiketimi baslsn.? : "
+msgstr ""
+
+#: include/raporlar.h:1360
+msgid "irket etiketimi baslsn.?  : "
+msgstr ""
+
+#: include/raporlar.h:1366
+msgid "Bir srada ka etiket var.?  : "
+msgstr ""
+
+#: include/raporlar.h:1368
+msgid "Eer irketimizin etiketi baslacaksa ka adet baslsn.?   : "
+msgstr ""
+
+#: include/raporlar.h:1379
+msgid "      F5 -> Yazdr                                ESC-> k           "
+msgstr ""
+
+#: include/raporlar.h:1380
+msgid " - Mteri ve irket etiketlerini boluk tuuna basarak seiniz."
+msgstr ""
+
+#: include/raporlar.h:1456
+msgid "Sended to printer"
+msgstr ""
+
+#: include/raporlar.h:1570
+msgid ""
+"                        iki tarih aras Cek/Senet "
+"Hareketleri                   "
+msgstr ""
+
+#: include/raporlar.h:1577
+msgid "Balang tarih :"
+msgstr ""
+
+#: include/raporlar.h:1578
+msgid "Biti tarih no    :"
+msgstr ""
+
+#: include/raporlar.h:1723
+msgid "iki tarih aras ek hareketleri"
+msgstr ""
+
+#: include/raporlar.h:1763
+#, c-format
+msgid ""
+"%s irketi ek/Senet Hareketleri Raporu - Rapor Zaman: %s/%s/%s  %s:%s:%s\n"
+"\n"
+msgstr ""
+
+#: include/raporlar.h:1767
+msgid ""
+"                                                                  ek - Senet "
+"Hareketleri Raporu \n"
+msgstr ""
+
+#: include/raporlar.h:1772
+msgid "Makbuz No."
+msgstr ""
+
+#: include/raporlar.h:1772
+msgid "islem tarih."
+msgstr ""
+
+#: include/raporlar.h:1772
+msgid "Tutar"
+msgstr ""
+
+#: include/raporlar.h:1772
+msgid "Banka Ad"
+msgstr ""
+
+#: include/raporlar.h:1772
+msgid "ek no"
+msgstr ""
+
+#: include/raporlar.h:1772
+msgid "ek Tarih"
+msgstr ""
+
+#: include/raporlar.h:1772
+msgid "Keside Yeri"
+msgstr ""
+
+#: include/raporlar.h:1772
+msgid "ek Kesen Firma"
+msgstr ""
+
+#: include/raporlar.h:1772
+msgid "Durum"
+msgstr ""
+
+#: include/raporlar.h:1773
+msgid "Kime Verildi"
+msgstr ""
+
+#: include/raporlar.h:1804
+msgid ""
+"\n"
+"\n"
+"Not: Durum hanesi aklamas\n"
+"irket : ek u anda elimizde , Firma : Bir firmaya k yaplm,  Banka : Tahsilat "
+"tarafmzdan yaplm\n"
+msgstr ""
+
+#: include/market.h:10
+msgid "Speed Sale with Barcode"
+msgstr ""
+
+#: include/market.h:11
+msgid "Daily Sale Report"
+msgstr ""
+
+#: include/market.h:12
+msgid "Center Consolidation"
+msgstr ""
+
+#: include/market.h:59
+msgid "Kasa Satis Kayit"
+msgstr ""
+
+#. kasa durum raporu
+#. 						urun_satis();
+#: include/market.h:90 include/market.h:100
+msgid "This side is not ready to use."
+msgstr ""
+
+#: include/market.h:231
+msgid ""
+"                          Speed Sales with "
+"Barcode                            "
+msgstr ""
+
+#: include/market.h:236
+msgid "Date:"
+msgstr ""
+
+#: include/market.h:239
+msgid "Order No:"
+msgstr ""
+
+#: include/market.h:241
+msgid "Card No :"
+msgstr ""
+
+#: include/market.h:242
+msgid "Customer Name:"
+msgstr ""
+
+#: include/market.h:243
+msgid "Customer code:"
+msgstr ""
+
+#: include/market.h:245
+msgid "Amount:"
+msgstr ""
+
+#: include/market.h:248
+msgid "Material Barcode      "
+msgstr ""
+
+#: include/market.h:249
+msgid "Name                        "
+msgstr ""
+
+#: include/market.h:250
+msgid "Amount               "
+msgstr ""
+
+#: include/market.h:251
+msgid "Unit Price           "
+msgstr ""
+
+#: include/market.h:255
+msgid " F2->Save         "
+msgstr ""
+
+#: include/market.h:256
+msgid " F3->New          "
+msgstr ""
+
+#: include/market.h:257
+msgid " F5->Firm Select   "
+msgstr ""
+
+#: include/market.h:258
+msgid " F6->Material Select"
+msgstr ""
+
+#: include/market.h:262
+msgid "Total  :"
+msgstr ""
+
+#. stok kayÃ½dÃ½ yapÃ½ldÃ½ktan sonra kullanÃ½cÃ½ girmek isteyebilir o sorulacak ve
+#. sonrasÃ½nda field alanlarÃ½ bosaltÃ½lacak
+#: include/market.h:476
+msgid "Kayt baar ile gerekletirildi. Yeni kayt girecekmisiniz?"
+msgstr ""
+
+#. f2 kayÃ½t iÃ¾lemlerinin sonu
+#. gelen stok yeni kayÃ½t
+#. f3 iÃ¾leminin baÃ¾Ã½
+#: include/market.h:520
+msgid "All sales (in screen) will be delete. Are you sure.?"
+msgstr ""
+
+#: include/irsaliyegiris.h:129
+msgid ""
+"                   Waybill Incoming "
+"Screen                                     "
+msgstr ""
+
+#: include/irsaliyegiris.h:135
+msgid "date:"
+msgstr ""
+
+#: include/irsaliyegiris.h:138
+msgid "Bill.No:"
+msgstr ""
+
+#: include/irsaliyegiris.h:139
+msgid "WB.No:"
+msgstr ""
+
+#: include/irsaliyegiris.h:140
+msgid "From:"
+msgstr ""
+
+#: include/irsaliyegiris.h:142 include/irsaliyecikis.h:144
+#: include/irsaliyecikis.h:147
+msgid "Teslim alan: "
+msgstr ""
+
+#: include/irsaliyegiris.h:143 include/irsaliyecikis.h:145
+#: include/irsaliyecikis.h:148
+msgid "Teslim eden: "
+msgstr ""
+
+#: include/irsaliyegiris.h:144 include/irsaliyecikis.h:149
+msgid "Teslim yeri: "
+msgstr ""
+
+#: include/irsaliyegiris.h:146 include/irsaliyecikis.h:151
+msgid "Fiili sevk tarihi: "
+msgstr ""
+
+#: include/irsaliyegiris.h:147 include/irsaliyecikis.h:152
+msgid "Dzenleme saati  : "
+msgstr ""
+
+#: include/irsaliyegiris.h:148 include/irsaliyecikis.h:153
+msgid "Dzenleyen       : "
+msgstr ""
+
+#: include/irsaliyegiris.h:162
+msgid " Material Code          "
+msgstr ""
+
+#: include/irsaliyegiris.h:163
+msgid " Name                           "
+msgstr ""
+
+#: include/irsaliyegiris.h:164 include/irsaliyecikis.h:169
+msgid " Miktar  "
+msgstr ""
+
+#: include/irsaliyegiris.h:165 include/irsaliyecikis.h:170
+msgid " Birim "
+msgstr ""
+
+#: include/irsaliyegiris.h:166 include/irsaliyecikis.h:171
+msgid " Birim Fiyat        "
+msgstr ""
+
+#: include/irsaliyegiris.h:225
+msgid ""
+"   F1->Help   F2->Save  F3->New   F4->Delete    F8->Back  P/N   PgUp/PgDn"
+msgstr ""
+
+#: include/irsaliyegiris.h:430
+msgid "rsaliye no. yazmadnz."
+msgstr ""
+
+#: include/irsaliyegiris.h:438
+msgid "Firma ad girmek zorundasnz."
+msgstr ""
+
+#: include/irsaliyegiris.h:448
+msgid "Kayt girmediniz."
+msgstr ""
+
+#: include/irsaliyecikis.h:131
+msgid "                   Outgoing Waybill Screen                           "
+msgstr ""
+
+#: include/irsaliyecikis.h:137 include/faturagelen.h:297
+#: include/faturakesilen.h:302
+msgid "Tarih:"
+msgstr ""
+
+#: include/irsaliyecikis.h:140 include/faturagelen.h:300
+#: include/faturakesilen.h:305
+msgid "Fat.No:"
+msgstr ""
+
+#: include/irsaliyecikis.h:141 include/faturagelen.h:302
+#: include/faturakesilen.h:307
+msgid "rs.No:"
+msgstr ""
+
+#: include/irsaliyecikis.h:142 include/faturakesilen.h:308
+msgid "Kime:"
+msgstr ""
+
+#: include/irsaliyecikis.h:167 include/faturagelen.h:310
+#: include/faturakesilen.h:315
+msgid " Malzeme Kodu           "
+msgstr ""
+
+#: include/irsaliyecikis.h:168
+msgid " rnn Ad                     "
+msgstr ""
+
+#: include/irsaliyecikis.h:229
+msgid " F1->Help   F2->Save    F3->New    F4->Delete  F8->Back  P/N PgUp/PgDn"
+msgstr ""
+
+#: include/faturagelen.h:58
+msgid "   F5-> Ara    ESC-> k   Seiminizi Yapnz "
+msgstr ""
+
+#: include/faturagelen.h:291
+msgid ""
+"                      Acikiletme Gelen Fatura Ekran                          "
+msgstr ""
+
+#: include/faturagelen.h:303
+msgid "Kimden:"
+msgstr ""
+
+#: include/faturagelen.h:311 include/faturakesilen.h:316
+msgid " rnn Ad            "
+msgstr ""
+
+#: include/faturagelen.h:312 include/faturakesilen.h:317
+msgid " Miktar"
+msgstr ""
+
+#: include/faturagelen.h:313 include/faturakesilen.h:318
+msgid " Birim"
+msgstr ""
+
+#: include/faturagelen.h:314 include/faturakesilen.h:319
+msgid " KDV "
+msgstr ""
+
+#: include/faturagelen.h:315 include/faturakesilen.h:320
+msgid " Birim Fiyat   "
+msgstr ""
+
+#: include/faturagelen.h:316 include/faturakesilen.h:321
+msgid " Tutar          "
+msgstr ""
+
+#: include/faturagelen.h:378 include/faturakesilen.h:383
+msgid "Ara toplam     :"
+msgstr ""
+
+#: include/faturagelen.h:379 include/faturakesilen.h:384
+msgid "skonto oran(%):"
+msgstr ""
+
+#: include/faturagelen.h:380 include/faturakesilen.h:385
+msgid "skonto tutar :"
+msgstr ""
+
+#: include/faturagelen.h:382 include/faturakesilen.h:387
+msgid "Genel toplam:"
+msgstr ""
+
+#: include/faturagelen.h:383 include/faturakesilen.h:388
+msgid "KDV         :"
+msgstr ""
+
+#: include/faturagelen.h:384 include/faturakesilen.h:389
+msgid "Yekn       :"
+msgstr ""
+
+#: include/faturagelen.h:387
+msgid ""
+"   F1->Yardm   F2->Kaydet  F3->Yeni   F4->Sil   F8->Men   Gezinti PgUp/PgDn"
+msgstr ""
+
+#: include/faturakesilen.h:64
+msgid "   F5-> Find   ESC-> Exit   Please Select       "
+msgstr ""
+
+#: include/faturakesilen.h:296
+msgid "                      Bill Screen                                   "
+msgstr ""
+
+#: include/faturakesilen.h:392
+msgid ""
+"   F1->Help   F2->Save  F3->New   F4->Delete   F8->Back   P/N      PgUp/PgDn"
+msgstr ""
+
+#: include/ceksenet.h:12
+msgid "Cheque Incoming"
+msgstr ""
+
+#: include/ceksenet.h:13
+msgid "Cheque Outgoing"
+msgstr ""
+
+#: include/ceksenet.h:42
+#, fuzzy
+msgid "Cheq List"
+msgstr "Yardim listesi"
+
+#: include/ceksenet.h:237 include/ceksenet.h:462 include/ceksenet.h:499
+msgid ""
+"                              ek Tahsilat "
+"Ekran                               "
+msgstr ""
+
+#: include/ceksenet.h:255
+msgid "Gelen Firma:"
+msgstr ""
+
+#: include/ceksenet.h:256
+msgid "Aklama   :"
+msgstr ""
+
+#: include/ceksenet.h:257
+msgid "ek Tutar :"
+msgstr ""
+
+#: include/ceksenet.h:259
+msgid "Banka Ad  :"
+msgstr ""
+
+#: include/ceksenet.h:260
+msgid "ek No  :"
+msgstr ""
+
+#: include/ceksenet.h:262
+msgid "ek Tarihi :"
+msgstr ""
+
+#: include/ceksenet.h:268
+msgid "Keide Yeri :"
+msgstr ""
+
+#: include/ceksenet.h:269
+msgid "eki Kesen ahs veya Firma Ad   :"
+msgstr ""
+
+#: include/ceksenet.h:270
+msgid "    F2->Kaydet   F3->Yeni  F8->Firma Seimi   F5->Makbuz yazdr   ESC->k"
+msgstr ""
+
+#: include/ceksenet.h:387
+msgid "ek tarihi hatal.!!!"
+msgstr ""
+
+#: include/ceksenet.h:396 include/ceksenet.h:404
+msgid "Cek tarihi hatal.!!!"
+msgstr ""
+
+#: include/ceksenet.h:602
+msgid ""
+"                                                                         Yetkili "
+"imza\n"
+msgstr ""
+
+#: include/ceksenet.h:704
+msgid "F3->Bankaya k  F4->Firmaya k  F5->Ara  F8->Sil  ESC->k"
+msgstr ""
+
+#: include/ceksenet.h:742
+msgid "Seilen ekin bankadan tahsilini onaylyormusunuz?"
+msgstr ""
+
+#: include/ceksenet.h:764
+msgid "Seilen ekin, seilecek olan firmaya kn     kabul ediyormusunuz.?"
+msgstr ""
+
+#: include/ayarlar.h:6
+msgid "User Settings"
+msgstr ""
+
+#: include/ayarlar.h:7
+msgid "SQL Settings "
+msgstr ""
+
+#: include/ayarlar.h:8
+msgid "Firm Settings"
+msgstr ""
+
+#: include/ayarlar.h:9
+msgid "Printer Settings"
+msgstr ""
+
+#: include/ayarlar.h:10
+msgid "Backup Settings"
+msgstr ""
+
+#: include/ayarlar.h:11
+msgid "Bill Design Screen"
+msgstr ""
+
+#: include/ayarlar.h:28
+msgid "You are not root user, you must be login user root.!!!"
+msgstr ""
+
+#: include/ayarlar.h:203 include/ayarlar.h:1145
+msgid "Password      :"
+msgstr ""
+
+#: include/ayarlar.h:204
+msgid "Server Name or IP:"
+msgstr ""
+
+#: include/ayarlar.h:208
+msgid ""
+"                    PostgreSQL Server Connection "
+"Settings                      "
+msgstr ""
+
+#: include/ayarlar.h:209
+msgid ""
+"           F2 -> Save     F5-> Connection Test     ESC-> Cancel              "
+msgstr ""
+
+#: include/ayarlar.h:212
+msgid " - Test balantsn denemeden nce kayt ediniz."
+msgstr ""
+
+#: include/ayarlar.h:213
+msgid " - Kullanc ad blmne PostgreSQL server kullanc ad yazlr."
+msgstr ""
+
+#: include/ayarlar.h:214
+msgid " - ifre blmne kullanc adna ait olan ifre yazlr."
+msgstr ""
+
+#: include/ayarlar.h:215
+msgid ""
+" - Bilgisayar blmne PostgreSQL server bulunan bilgisayar ad veya ip nosu "
+"yazlr. "
+msgstr ""
+
+#: include/ayarlar.h:299
+msgid "Settings succesfully saved."
+msgstr ""
+
+#: include/ayarlar.h:316
+msgid "SQL server connection problem.!!!"
+msgstr ""
+
+#: include/ayarlar.h:323
+msgid "SQL server connection is succesfully."
+msgstr ""
+
+#: include/ayarlar.h:383
+msgid ""
+"                                 Edit Form "
+"Information                          "
+msgstr ""
+
+#: include/ayarlar.h:386
+msgid "Firm Name:"
+msgstr ""
+
+#: include/ayarlar.h:387
+msgid "Adress:"
+msgstr ""
+
+#: include/ayarlar.h:388
+msgid "Tax Office:"
+msgstr ""
+
+#: include/ayarlar.h:389
+msgid "Tax Number:"
+msgstr ""
+
+#: include/ayarlar.h:390
+msgid "Telephone1:"
+msgstr ""
+
+#: include/ayarlar.h:391
+msgid "Telephone2:"
+msgstr ""
+
+#: include/ayarlar.h:394
+msgid "                        F2->Save         ESC->Exit "
+msgstr ""
+
+#: include/ayarlar.h:556
+msgid "   F3-> New       F5-> Search    F8-> Delete    ESC-> Exit   "
+msgstr ""
+
+#: include/ayarlar.h:557
+msgid "  PAGE UP -> Prior Page       PAGE DOWN -> Next Page     "
+msgstr ""
+
+#.
+#. case KEY_F (4):	// F4 kullanici duzenleme ekraný
+#. sprintf (gecici_yazi, "%s", item_name (cur_item));
+#. //kullanici_haklari_duzenle (gecici_yazi);
+#. return 0;
+#.
+#. arama tusu basýlýrsa
+#: include/ayarlar.h:602
+msgid "Kullanc adn veya yakn bir deer giriniz. Dzgn   sralama iin bo braknz. "
+msgstr ""
+
+#: include/ayarlar.h:691
+msgid ""
+"                          New User Adding "
+"Screen                                "
+msgstr ""
+
+#: include/ayarlar.h:698
+msgid "User Name        :"
+msgstr ""
+
+#: include/ayarlar.h:699
+msgid "Password         :"
+msgstr ""
+
+#: include/ayarlar.h:700
+msgid "Password (again) :"
+msgstr ""
+
+#: include/ayarlar.h:702
+msgid "***        Rights      ***"
+msgstr ""
+
+#: include/ayarlar.h:704
+msgid "Stock          :"
+msgstr ""
+
+#: include/ayarlar.h:705
+msgid "Currency       :"
+msgstr ""
+
+#: include/ayarlar.h:706
+msgid "Reports        :"
+msgstr ""
+
+#: include/ayarlar.h:707
+msgid "Delete Record  :"
+msgstr ""
+
+#: include/ayarlar.h:708
+msgid "New Record     :"
+msgstr ""
+
+#: include/ayarlar.h:718
+msgid ""
+"      F2 -> Save                                   ESC-> Exit               "
+msgstr ""
+
+#: include/ayarlar.h:720
+msgid " - Boluk tuu ile seebilirsiniz, del tuu ile silinebilir"
+msgstr ""
+
+#: include/ayarlar.h:721
+msgid " - Kullanc adna hangi isimle girecek ise o yazlr.   "
+msgstr ""
+
+#: include/ayarlar.h:722
+msgid " - ifre her iki seferde dzgn olarak yazlmaldr.\t"
+msgstr ""
+
+#: include/ayarlar.h:785
+msgid "Passwords is not same!"
+msgstr ""
+
+#: include/ayarlar.h:808
+msgid "New user succesfully created."
+msgstr ""
+
+#: include/ayarlar.h:837
+msgid "Edit screen not ready for use."
+msgstr ""
+
+#: include/ayarlar.h:854
+msgid ""
+"                           Printers Information "
+"Screen                          "
+msgstr ""
+
+#: include/ayarlar.h:861
+msgid ""
+"F2 -> Save     F5-> Print Test Page       F8-> Add New Printer      ESC-> "
+"Exit "
+msgstr ""
+
+#: include/ayarlar.h:863
+msgid " - Acikiletme sisteme kurulmu olan varsaylan yazcy kullanr."
+msgstr ""
+
+#: include/ayarlar.h:864
+msgid " - Bu amala sisteme bir yazc kurmalsnz. Eer kurmadysanz"
+msgstr ""
+
+#: include/ayarlar.h:865
+msgid " - cups tavsiye edilir. F8 tuuna basarak CUPS yneticisini"
+msgstr ""
+
+#: include/ayarlar.h:866
+msgid " - kullanabilirsiniz.  Eer sisteminizde yazc kuruluysa F5 "
+msgstr ""
+
+#: include/ayarlar.h:867
+msgid " - tuuna basarak deneme yapabilirsiniz. Acikiletme iinde   "
+msgstr ""
+
+#: include/ayarlar.h:868
+msgid " - yazc ktlarn almak iin sisteminizde enscript kurulu olmaldr."
+msgstr ""
+
+#: include/ayarlar.h:886
+msgid "Test page sended to printer."
+msgstr ""
+
+#: include/ayarlar.h:950
+msgid ""
+"                            Backup "
+"Configuration                                "
+msgstr ""
+
+#: include/ayarlar.h:953
+msgid "Backup in everday first run        : "
+msgstr ""
+
+#: include/ayarlar.h:954
+msgid "Last backup date                   : "
+msgstr ""
+
+#: include/ayarlar.h:960
+msgid "                 F2 -> Save                    ESC-> Exit "
+msgstr ""
+
+#: include/ayarlar.h:962
+msgid " - Uygulama hergn ilk alta yedek almasnn istenmesi durumunda; "
+msgstr ""
+
+#: include/ayarlar.h:963
+msgid "   seim kutusunun aktif durumda olmaldr. "
+msgstr ""
+
+#: include/ayarlar.h:964
+msgid " - Uygulama btn yedekleri /opt/acikisletme/backup dizini iine alr."
+msgstr ""
+
+#: include/ayarlar.h:965
+msgid " - Bu dizin ierisinde geri yklenmek istenen tarih kullanlarak aadaki "
+msgstr ""
+
+#: include/ayarlar.h:966
+msgid "   satrlarn yazlmas yeterlidir."
+msgstr ""
+
+#: include/ayarlar.h:967
+msgid "   su postgres "
+msgstr ""
+
+#: include/ayarlar.h:968
+#, fuzzy
+msgid "   createdb acikisletme"
+msgstr "ssdddd"
+
+#: include/ayarlar.h:969
+msgid "   psql acikisletme < istenen_tarih.sql"
+msgstr ""
+
+#: include/ayarlar.h:1062
+msgid "Record Succesfully Saved."
+msgstr ""
+
+#: include/ayarlar.h:1144
+msgid "User Name     :"
+msgstr ""
+
+#: include/ayarlar.h:1147
+msgid "Kullanc ekran giri sorgulamas"
+msgstr ""
+
+#: include/ayarlar.h:1148
+msgid "Bu alana giri iin root kullancsnn haklar gerekmektedir."
+msgstr ""
+
+#: include/ayarlar.h:1149
+msgid "F2-> Okey                                                ESC-> Exit "
+msgstr ""
+
+#: include/ayarlar.h:1152
+msgid "                             Open                                    "
+msgstr ""
+
+#: include/ayarlar.h:1158
+msgid "               Ak iletme GPL bir ticari uygulamadr."
+msgstr ""
+
+#: include/yardim.h:14
+msgid "Current Module Using"
+msgstr ""
+
+#: include/yardim.h:15
+msgid "Configuration Using"
+msgstr ""
+
+#: include/yardim.h:16
+msgid "Reports Using"
+msgstr ""
+
+#: include/yardim.h:17
+msgid "Application Licence"
+msgstr ""
+
+#: include/yardim.h:18
+msgid "Bug Report"
+msgstr ""
+
+#: include/yardim.h:59
+msgid "Help List"
+msgstr "Yardim listesi"
+
+#: include/yardim.h:183
+#, fuzzy
+msgid "   All Rights Reserved (c) 2001-2005  M.Ali VARDAR"
+msgstr "sssddd"
+
+#: include/yardim.h:184
+msgid "      URL   : http://www.linuxprogramlama.com"
+msgstr ""
+
+#: include/yardim.h:185
+msgid "     Email : programlama@linuxprogramlama.com"
+msgstr ""
+
+#: include/yardim.h:186
+msgid "if you like that this project please donate us."
+msgstr ""

@@ -1,0 +1,20 @@
+# List of source files containing translatable strings.
+
+## Created by Anjuta - will be overwritten
+## If you don't want it to overwrite it,
+## 	Please disable it in the Anjuta project configuration
+
+# Source files
+src/main.c
+include/conf.h
+include/stok.h
+include/cari.h
+include/raporlar.h
+include/market.h
+include/irsaliyegiris.h
+include/irsaliyecikis.h
+include/faturagelen.h
+include/faturakesilen.h
+include/ceksenet.h
+include/ayarlar.h
+include/yardim.h

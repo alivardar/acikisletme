@@ -1,0 +1,13 @@
+     ../src/main.c \
+     ../include/conf.h \
+     ../include/stok.h \
+     ../include/cari.h \
+     ../include/raporlar.h \
+     ../include/market.h \
+     ../include/irsaliyegiris.h \
+     ../include/irsaliyecikis.h \
+     ../include/faturagelen.h \
+     ../include/faturakesilen.h \
+     ../include/ceksenet.h \
+     ../include/ayarlar.h \
+     ../include/yardim.h

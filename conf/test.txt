@@ -1,0 +1,52 @@
+
+
+
+
+
+                _,  _ _, _ _,_ _  ,   _  _, _,  __, ___ _, _ __,
+                |   | |\ | | | '\/    | (_  |   |_   |  |\/| |_ 
+                | , | | \| | |  /\    | , ) | , |    |  |  | |  
+                ~~~ ~ ~  ~ `~' ~  ~   ~  ~  ~~~ ~~~  ~  ~  ~ ~~~
+
+
+
+
+
+
+                                                                
+Eðer aþaðýdaki yazýlarý düzgün olarak okuyabiliyorsanýz yazýcý düzgün
+olarak yapýlandýrýlmýþtýr. Türkçe karakterler içerisinde sorun olmamasý
+gerekmektedir. Eðer bu konuda bir hata ile karþýlaþýlmasý durumunda 
+ali@linuxprogramlama.com adresine bu konu ile ilgili mail atýnýz.
+
+
+Küçük harf:
+
+ýðüþiöç
+
+
+
+Büyük harf:
+
+IÐÜÞÝÖÇ
+
+Linux Ýþletme;
+Türkiyenin Linux altýnda Linux için yazýlmýþ ilk ticari stok, cari
+uygulamasýdýr.
+
+En son sürümleri ve yapýlan deðiþiklikleri aþaðýdaki adresten
+takip edebilirsiniz.
+
+
+
+URL : www.linuxprogramlama.com
+
+
+
+
+                                                                   
+            |    o                  o     |         |              
+            |    .,---..   ..  ,    .,---.|    ,---.|--- ,-.-.,---.
+            |    ||   ||   | ><     |`---.|    |---'|    | | ||---'
+            `---'``   '`---''  `    ``---'`---'`---'`---'` ' '`---'
+                                                                   

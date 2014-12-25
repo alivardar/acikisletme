@@ -1,0 +1,58 @@
+
+		    *** Stok Ýþlemleri Bölümü ***
+		
+Bu bölüm 5 ana kýsýmdan oluþmaktadýr. Bu kýsýmlar sýrasýyla anlatýlmýþtýr.
+
+- Giriþ Ýrsaliyesi
+- Çýkýþ Ýrsaliyesi
+- Yeni Stok Kartonu
+- Stok Kartonlarý
+- Ana Menüye Dönüþ
+
+
+		    --- Giriþ Ýrsaliyesi ---
+
+Satýcýlardan elimize ulaþan irsaliye kayda geçirilmesi amacýyla bu alan
+kullanýlmaktadýr. Ekranda kullanýlabilecek olan tüm tuþ isimleri yazmaktadýr.
+Bu tuþ kullanýmý tüm uygulama içerisinde aynýdýr. Tüm irsaliye içerisinde 
+bulunan kalemler girilir ve kayýt edilir.
+
+
+		    --- Çýkýþ Ýrsaliyesi ---
+
+Stoklarýmýzda bulunan mallarýn müþteriye verilmek amacýyla tarafýmýzdan yazýlan
+irsaliyelerin iþlendiði bölümdür. Bu bölümde Giriþ irsaliyesi bölümünden farklý 
+olarak sadece giden firma seçeneði bulunmaktadýr.
+
+
+		    --- Yeni Stok Kartonu ---
+
+Giriþ / Çýkýþ irsaliyelerinden önce daha önceden yeni ürün gelmiþ ise bu ürün 
+adý mutlaka bu kýsýmdan gerekli bilgiler doldurularak girilmelidir. Bu bilgiler
+irsaliye giriþleri sýrasýnda kullanýlacaktýr. Aksi halde ürünlerin giriþ çýkýþ 
+iþlemleri gerçekleþtirilemez.
+
+
+		    --- Stok Kartonlarý ---
+
+Daha önceden girilmiþ olan stok kartonlarýnýn düzeltilmesi, silinmesi
+iþlemlerinin yapýldýðý kýsýmdýr.
+
+
+Bu kýsým kendisini cari hesaplar kýsmýna dayandýrmaktadýr. Cari hesaplar
+içerisinde kayýtlarý girilen þirketler bu stok kýsmýnda bulunan ürün giriþ ve
+çýkýþlarda mutlaka girilmesi gerekmektedir.
+
+
+                                                                   
+            |    o                  o     |         |              
+            |    .,---..   ..  ,    .,---.|    ,---.|--- ,-.-.,---.
+            |    ||   ||   | ><     |`---.|    |---'|    | | ||---'
+            `---'``   '`---''  `    ``---'`---'`---'`---'` ' '`---'
+                                                                   
+Herhangi bir yardým ihtiyacý durumunda ali@linuxprogramlama.com adresine mail
+atýnýz veyahutta satýcýnýzla direkt temasa geçiniz. Ürünün yeni çýkan
+sürümlerini takip etmek amacýyla www.linuxprogramlama.com adresine bakýnýz.
+
+
+
